@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.logging.file.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.logging.file.name'"
+  },
+  {
+    "name": "spring.jpa.logging.level.org.springframawork",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.logging.level.org.springframawork'"
+  },
+  {
+    "name": "spring.jpa.logging.level.org.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.logging.level.org.hibernate'"
+  }
+]}
